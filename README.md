@@ -8,5 +8,5 @@ you can set up your program to do something on a certain date or time
 counting up and down
 
 ## basic functions
-such as displaying time in the console, showing a digital clock, showing your timezone etc.
+such as printing the time in the console, showing a digital clock, printing your timezone etc.
 
