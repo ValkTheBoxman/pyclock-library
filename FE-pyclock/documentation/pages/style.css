@@ -1,0 +1,65 @@
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    color: black;
+}
+
+p{
+    color: blue;
+}
+
+div{
+    color: black;
+    background: fixed;
+    background-color: green;
+    border-radius: 10px;
+    text-align: center;
+    border-start-end-radius: 2px;
+}
+
+h2{
+    color: green;
+}
+
+h5{
+    color: black;
+}
+
+button{
+    border-radius: 10px;
+    border-width: 10;
+    color: blue;
+    background-color: blanchedalmond;
+    border-color: red;
+    border-left: 10;
+    border-left-color: gray;
+    border-left-width: 5px;
+}
+
+button:hover{
+    border-radius: 10px;
+    border-width: 10;
+    color: purple;
+    background-color: ghostwhite;
+    border-color: darkred;
+    border-left: 10;
+    border-left-color: black;
+    border-left-width: 5px;
+}
+
+a{
+    color:blue;
+    background-color: blanchedalmond;
+    border: 15px;
+    border-radius: 10px;
+    border-left: 10;
+}
+
+a:hover{
+    color: red;
+    background-color: gray;
+    border: 15px;
+    border-radius: 10px;
+}
