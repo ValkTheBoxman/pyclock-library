@@ -1,5 +1,6 @@
 # pyclock-library
 making my own time library, with more functions.
+**FE COMPATIBLE VERSION!!, READ DOCUMENTATION FOR DETAILS**
 
 ## events
 you can set up your program to do something on a certain date or time
