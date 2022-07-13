@@ -10,3 +10,5 @@ counting up and down
 ## basic functions
 such as printing the time in the console, showing a digital clock, printing your timezone etc.
 
+## help wanted
+how do i make the functions work
