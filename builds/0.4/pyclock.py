@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 from pytz import timezone
 from tzlocal import get_localzone
 
-version = "0.3"
-FEversion = "1.0"
+version = "0.4"
+FEversion = "2.0"
 
 #holds every function
 class pyclock:
